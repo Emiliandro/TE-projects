@@ -1,6 +1,6 @@
 # Sobre
 
-Esta pagina contém os textos escritos por Emiliandro FirminO, Jameson Pagini e Marco Henrique para a matéria de Tópicos Especiais 1 do curso de Tecnologia em Jogos Digitais, ministrado pelo prof. msc. Adriano Gil.
+Esta pagina contém os textos escritos por Emiliandro Firmino, Jameson Pagini e Marco Henrique para a matéria de Tópicos Especiais 1 do curso de Tecnologia em Jogos Digitais, ministrado pelo prof. msc. Adriano Gil.
 
 # Trabalho 01 - De2D aplicado em jogos Unity2D
 
@@ -9,11 +9,8 @@ Esta pagina contém os textos escritos por Emiliandro FirminO, Jameson Pagini e 
 
 **Produto final em vídeo:** [Link](https://youtu.be/xds5KW7ZZio)
 
-![Aplicacao](TE01Screenshots/TET1.PNG "Aplicação desenvolvida")
-![Aplicacao](TE01Screenshots/TET1-01.PNG "Aplicação desenvolvida")
-
-
 ## **De2DAutoSorter**
+![Aplicacao](TE01Screenshots/TET1.PNG "Aplicação desenvolvida")
 
 Organização de camadas é algo essencial para todo design ou ilustrador, e quando aplicado em jogos se torna uma ferramenta de igual importância quando se trabalha com engines drag-and-drop (Construct2D por exemplo), mas no Unity é algo um pouco obscuro.
 
@@ -23,7 +20,12 @@ Pois, é possível desenvolver tais camadas apenas com breve alterações no eix
 
 
 ## **De2DCamera**
+![Aplicacao](TE01Screenshots/TET1-04.PNG "Aplicação desenvolvida")
 
+Algo comum que experimentei em meus inúmeros trabalhos com o Unity é o problema de câmera na hora de exportar o projeto. Já tive inúmeras apresentações prejudicadas por asset fora de tela, mesmo fazendo testes no projeto, a exportação sempre foi um problema.
+
+**De2DCamera** certifca de que tudo esteja como eu queira e ainda é simples, na Asset Store já encontrei muitos scripts semelhantes que se tornavam chatos de usar devido a poluição visual que havia no inspector.
 
 
 ## **Considerações Finais**
+![Aplicacao](TE01Screenshots/TET1-01.PNG "Aplicação desenvolvida")

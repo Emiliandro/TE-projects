@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: be5ce619411b355459471171b9d9ef5f
+timeCreated: 1494039998
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Klasik
+  fontNames:
+  - Klasik
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8d18f4a12be182644af7dba976e61fa8, type: 3}
+  - {fileID: 12800000, guid: 49d7144fc86a7ed49affacefc931c613, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

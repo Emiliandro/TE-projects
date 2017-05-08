@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 972c1cbbfc124044a85f0a625825ff56
+timeCreated: 1494039998
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Uni Neue
+  fontNames:
+  - Uni Neue
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8b26a2a525ddd4c448326ab6162f9d4b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
